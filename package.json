@@ -1,0 +1,13 @@
+{
+  "name": "daily-coding-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NguyenVanViet2004/daily-coding-challenges.git",
+  "author": "Nguyen Van Viet",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.7.2",
+    "yarn": "^1.22.22"
+  },
+  "private": true
+}
