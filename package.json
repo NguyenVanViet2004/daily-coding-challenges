@@ -5,9 +5,22 @@
   "repository": "https://github.com/NguyenVanViet2004/daily-coding-challenges.git",
   "author": "Nguyen Van Viet",
   "license": "MIT",
+  "scripts": {
+    "run-ts": "ts-node",
+    "run-1": "ts-node 1\\ Two\\ Sum/TwoSum.ts",
+    "run-3": "ts-node 3\\ Longest\\ Substring\\ Without\\ Repeating\\ Characters/LongestSubstringWithoutRepeatingCharacters.ts",
+    "run-9": "ts-node 9\\ Palindrome\\ Number/PalindromeNumber.ts",
+    "run-796": "ts-node 796\\ Rotate\\ String/RotateString.ts",
+    "run-1346": "ts-node 1346\\ Check\\ If\\ N\\ and\\ Its\\ Double\\ Exist/CheckIfNAndItsDoubleExist.ts",
+    "run-1455": "ts-node 1455\\ Check\\ If\\ a\\ Word\\ Occurs\\ As\\ a\\ Prefix\\ of\\ Any\\ Word\\ in\\ a\\ Sentence/CheckIfAWordOccursAsAPrefixOfAnyWordinASentence.ts",
+    "run-1957": "ts-node 1957\\ Delete\\ Characters\\ to\\ Make\\ Fancy\\ String/DeleteCharactersToMakeFancyString.ts"
+  },
   "dependencies": {
     "typescript": "^5.7.2",
     "yarn": "^1.22.22"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
 }
