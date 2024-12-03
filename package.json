@@ -13,7 +13,8 @@
     "run-796": "ts-node 796\\ Rotate\\ String/RotateString.ts",
     "run-1346": "ts-node 1346\\ Check\\ If\\ N\\ and\\ Its\\ Double\\ Exist/CheckIfNAndItsDoubleExist.ts",
     "run-1455": "ts-node 1455\\ Check\\ If\\ a\\ Word\\ Occurs\\ As\\ a\\ Prefix\\ of\\ Any\\ Word\\ in\\ a\\ Sentence/CheckIfAWordOccursAsAPrefixOfAnyWordinASentence.ts",
-    "run-1957": "ts-node 1957\\ Delete\\ Characters\\ to\\ Make\\ Fancy\\ String/DeleteCharactersToMakeFancyString.ts"
+    "run-1957": "ts-node 1957\\ Delete\\ Characters\\ to\\ Make\\ Fancy\\ String/DeleteCharactersToMakeFancyString.ts",
+    "run-2109": "ts-node 2109\\ Adding\\ Spaces\\ to\\ a\\ String/AddingSpacesToAString.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
