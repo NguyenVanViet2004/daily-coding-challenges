@@ -6,6 +6,7 @@
   "author": "Nguyen Van Viet",
   "license": "MIT",
   "scripts": {
+    "test": "jest test",
     "run-ts": "ts-node",
     "run-1": "ts-node 1\\ Two\\ Sum/TwoSum.ts",
     "run-3": "ts-node 3\\ Longest\\ Substring\\ Without\\ Repeating\\ Characters/LongestSubstringWithoutRepeatingCharacters.ts",
@@ -16,7 +17,9 @@
     "run-1957": "ts-node 1957\\ Delete\\ Characters\\ to\\ Make\\ Fancy\\ String/DeleteCharactersToMakeFancyString.ts",
     "run-2109": "ts-node 2109\\ Adding\\ Spaces\\ to\\ a\\ String/AddingSpacesToAString.ts",
     "run-2337": "ts-node 2337\\ Move\\ Pieces\\ to\\ Obtain\\ a\\ String/MovePiecesToObtainAString.ts",
-    "run-2554": "ts-node 2554\\ Maximum\\ Number\\ of\\ Integers\\ to\\ Choose\\ From\\ a\\ Range\\ I/MaximumNumberOfIntegersToChooseFromARange.ts"
+    "run-2554": "ts-node 2554\\ Maximum\\ Number\\ of\\ Integers\\ to\\ Choose\\ From\\ a\\ Range\\ I/MaximumNumberOfIntegersToChooseFromARange.ts",
+    "run-3348": "ts-node 3348\\ Smallest\\ Divisible\\ Digit\\ Product\\ II/SmallestDivisibleDigitProductI.ts",
+    "run-4": "ts-node 4\\ Median\\ of\\ Two\\ Sorted\\ Arrays/MedianOfTwoSortedArrays.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
@@ -24,6 +27,9 @@
   },
   "private": true,
   "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2"
   }
 }
