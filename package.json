@@ -15,7 +15,8 @@
     "run-1455": "ts-node 1455\\ Check\\ If\\ a\\ Word\\ Occurs\\ As\\ a\\ Prefix\\ of\\ Any\\ Word\\ in\\ a\\ Sentence/CheckIfAWordOccursAsAPrefixOfAnyWordinASentence.ts",
     "run-1957": "ts-node 1957\\ Delete\\ Characters\\ to\\ Make\\ Fancy\\ String/DeleteCharactersToMakeFancyString.ts",
     "run-2109": "ts-node 2109\\ Adding\\ Spaces\\ to\\ a\\ String/AddingSpacesToAString.ts",
-    "run-2337": "ts-node 2337\\ Move\\ Pieces\\ to\\ Obtain\\ a\\ String/MovePiecesToObtainAString.ts"
+    "run-2337": "ts-node 2337\\ Move\\ Pieces\\ to\\ Obtain\\ a\\ String/MovePiecesToObtainAString.ts",
+    "run-2554": "ts-node 2554\\ Maximum\\ Number\\ of\\ Integers\\ to\\ Choose\\ From\\ a\\ Range\\ I/MaximumNumberOfIntegersToChooseFromARange.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
