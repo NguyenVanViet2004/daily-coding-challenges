@@ -20,7 +20,8 @@
     "run-2554": "ts-node 2554\\ Maximum\\ Number\\ of\\ Integers\\ to\\ Choose\\ From\\ a\\ Range\\ I/MaximumNumberOfIntegersToChooseFromARange.ts",
     "run-3348": "ts-node 3348\\ Smallest\\ Divisible\\ Digit\\ Product\\ II/SmallestDivisibleDigitProductI.ts",
     "run-4": "ts-node 4\\ Median\\ of\\ Two\\ Sorted\\ Arrays/MedianOfTwoSortedArrays.ts",
-    "test-1760": "jest test 1760\\ Minimum\\ Limit\\ of\\ Balls\\ in\\ a\\ Bag/__test__/MinimumLimitOfBallsInABag.test.ts"
+    "test-1760": "jest test 1760\\ Minimum\\ Limit\\ of\\ Balls\\ in\\ a\\ Bag/__test__/MinimumLimitOfBallsInABag.test.ts",
+    "test-2054": "jest test 2054\\ Two\\ Best\\ Non-Overlapping\\ Events/__test__/TwoBestNon-OverlappingEvents.test.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
