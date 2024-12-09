@@ -21,7 +21,8 @@
     "run-3348": "ts-node 3348\\ Smallest\\ Divisible\\ Digit\\ Product\\ II/SmallestDivisibleDigitProductI.ts",
     "run-4": "ts-node 4\\ Median\\ of\\ Two\\ Sorted\\ Arrays/MedianOfTwoSortedArrays.ts",
     "test-1760": "jest test 1760\\ Minimum\\ Limit\\ of\\ Balls\\ in\\ a\\ Bag/__test__/MinimumLimitOfBallsInABag.test.ts",
-    "test-2054": "jest test 2054\\ Two\\ Best\\ Non-Overlapping\\ Events/__test__/TwoBestNon-OverlappingEvents.test.ts"
+    "test-2054": "jest test 2054\\ Two\\ Best\\ Non-Overlapping\\ Events/__test__/TwoBestNon-OverlappingEvents.test.ts",
+    "test-3152": "jest test 3152\\ Special\\ Array\\ II/__test__/SpecialArray2.test.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
