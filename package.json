@@ -25,7 +25,8 @@
     "test-3152": "jest -- 3152\\ Special\\ Array\\ II/__test__/SpecialArray2.test.ts",
     "test-2981": "jest -- 2981\\ Find\\ Longest\\ Special\\ Substring\\ That\\ Occurs\\ Thrice\\ I/__test__/FindLongestSpecialSubstring.test.ts",
     "test-2779": "jest -- 2779\\ Maximum\\ Beauty\\ of\\ an\\ Array\\ After\\ Applying\\ Operation/__test__/MaximumBeauty.test.ts",
-    "test-2558": "jest -- 2558\\ Take\\ Gifts\\ From\\ the\\ Richest\\ Pile/__test__/TakeGiftsFromtheRichestPile.test.ts"
+    "test-2558": "jest -- 2558\\ Take\\ Gifts\\ From\\ the\\ Richest\\ Pile/__test__/TakeGiftsFromtheRichestPile.test.ts",
+    "test-2593": "jest -- 2593\\ Find\\ Score\\ of\\ an\\ Array\\ After\\ Marking\\ All\\ Elements/__test__/FindScore.test.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
