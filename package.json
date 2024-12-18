@@ -30,7 +30,8 @@
     "test-2762": "jest -- 2762\\ Continuous\\ Subarrays/__test__/ContinuousSubarrays.test.ts",
     "test-1792": "jest -- 1792\\ Maximum\\ Average\\ Pass\\ Ratio/__test__/MaximumAveragePassRatio.test.ts",
     "test-3264": "jest -- 3264\\ Final\\ Array\\ State\\ After\\ K\\ Multiplication\\ Operations\\ I/__test__/FinalArrayState.test.ts",
-    "test-2182": "jest -- 2182\\ Construct\\ String\\ With\\ Repeat\\ Limit/__test__/ConstructStringWithRepeatLimit.test.ts"
+    "test-2182": "jest -- 2182\\ Construct\\ String\\ With\\ Repeat\\ Limit/__test__/ConstructStringWithRepeatLimit.test.ts",
+    "test-1475": "jest -- 1475\\ Final\\ Prices\\ With\\ a\\ Special\\ Discount\\ in\\ a\\ Shop/test/finalPrices.test.ts"
   },
   "dependencies": {
     "typescript": "^5.7.2",
